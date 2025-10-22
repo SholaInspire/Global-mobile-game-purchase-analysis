@@ -1,1 +1,2 @@
-# Global-mobile-game-purchase-analysis
+This technical report presents an extensive analysis of mobile game purchase and session data for the year 2025. The primary objective of this analysis is to identify critical patterns and insights across countries, payment methods, game genres, devices, spending behaviors, and demographic segments. The insights derived from this report will support data-driven decision-making in the areas of marketing strategy, user acquisition, monetization, and product optimization for mobile gaming platforms.
+
